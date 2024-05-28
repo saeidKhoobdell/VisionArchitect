@@ -27,8 +27,10 @@ Explore and Run Notebooks:
 Open the desired Jupyter Notebook to explore and run the projects.
 
 Sample Images
-A folder containing simple images is provided for testing purposes. [https://github.com/saeidKhoobdell/VisionArchitect/tree/main/images]
-You can download the imageNetClasses.json file [https://github.com/saeidKhoobdell/VisionArchitect/blob/main/imageNetClasses.json].
+A folder containing simple images is provided for testing purposes:
+[https://github.com/saeidKhoobdell/VisionArchitect/tree/main/images]
+You can download the imageNetClasses.json file :
+[https://github.com/saeidKhoobdell/VisionArchitect/blob/main/imageNetClasses.json].
 
 ## Contribution
 Contributions are welcome! If you have any ideas for improving existing models, implementing new architectures, or enhancing documentation, feel free to open an issue or submit a pull request.
