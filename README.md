@@ -33,8 +33,9 @@ Open the desired Jupyter Notebook to explore and run the projects.
 A folder containing simple images is provided for testing purposes:
 
 [https://github.com/saeidKhoobdell/VisionArchitect/tree/main/images]
---------------------------------------------------------------------------------------
+
 You can download the imageNetClasses.json file :
+--------------------------------------------------------------------------------------
 [https://github.com/saeidKhoobdell/VisionArchitect/blob/main/imageNetClasses.json].
 
 ## Contribution
