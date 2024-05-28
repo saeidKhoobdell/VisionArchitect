@@ -20,8 +20,7 @@ The primary goal of this repository is to provide a platform for experimenting w
 ```bash
 git clone https://github.com/your-username/VisionArchitect.git
 Install Dependencies:
-bash
-Code kopieren
+
 pip install -r requirements.txt
 Explore and Run Notebooks:
 Open the desired Jupyter Notebook to explore and run the projects.
