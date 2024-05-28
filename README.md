@@ -20,7 +20,7 @@ The primary goal of this repository is to provide a platform for experimenting w
 ```bash
 git clone https://github.com/your-username/VisionArchitect.git
 ```
-Install Dependencies:
+## Install Dependencies:
 
 pip install -r requirements.txt
 Explore and Run Notebooks:
@@ -29,8 +29,7 @@ Open the desired Jupyter Notebook to explore and run the projects.
 Sample Images
 A folder containing simple images is provided for testing purposes. You can download the imageNetClasses.json file [here](download Link).
 
-Contribution
+## Contribution
 Contributions are welcome! If you have any ideas for improving existing models, implementing new architectures, or enhancing documentation, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
