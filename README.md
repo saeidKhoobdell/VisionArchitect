@@ -1,4 +1,4 @@
-# Advanced CNN's Architectures
+# Advanced CNN Architectures
 
 Welcome to VisionArchitect, a repository dedicated to crafting and testing advanced CNN architectures using Keras and PyTorch. Here, you'll find a collection of Jupyter Notebooks focusing on various advanced convolutional neural network (CNN) models, along with sample images for testing purposes.
 
