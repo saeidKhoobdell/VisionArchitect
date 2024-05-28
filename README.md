@@ -19,6 +19,7 @@ The primary goal of this repository is to provide a platform for experimenting w
 
 ```bash
 git clone https://github.com/your-username/VisionArchitect.git
+```bash
 Install Dependencies:
 
 pip install -r requirements.txt
