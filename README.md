@@ -25,6 +25,7 @@ git clone https://github.com/your-username/VisionArchitect.git
 
 ```bash
 pip install -r requirements.txt
+```
 Explore and Run Notebooks:
 Open the desired Jupyter Notebook to explore and run the projects.
 
@@ -37,4 +38,4 @@ You can download the imageNetClasses.json file :
 
 ## Contribution
 Contributions are welcome! If you have any ideas for improving existing models, implementing new architectures, or enhancing documentation, feel free to open an issue or submit a pull request.
-```
+
